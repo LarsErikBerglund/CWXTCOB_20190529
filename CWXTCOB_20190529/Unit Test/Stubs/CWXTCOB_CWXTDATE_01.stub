@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 <stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="SHR" encoding="1047" id="Unit%20Test/Stubs/CWXTCOB_CWXTDATE_01.stub" stubtype="Program" target="CWXTDATE" token="10000">
   <stub:description>Created: 2019-maj-29 11:52:00</stub:description>
   <stub:stubdata id="0" name="CWXTDATE">
